@@ -82,7 +82,7 @@
         </contributor>
       </contributor_list>
       <edition>
-        <variation>v02_02</variation>
+        <variation>v03_01</variation>
       </edition>
       <format_list>
         <format>CDF</format>
@@ -95,7 +95,8 @@
       </relation_list>
       <content_language>en</content_language>
       <date_list>
-        <date type="Updated">2019-09-12 (version: v02_02)</date>
+        <date type="Updated">2021-09-27 (version: v03_01)</date>
+		<date type="Updated">2019-09-12 (version: v02_02)</date>
 		<date type="Issued">2018-07-31 (version: v01_00)</date>
       </date_list>
       <resource_type type="Dataset">3-D velocity distribution function of low-energy electrons</resource_type>

@@ -94,7 +94,7 @@
         </contributor>
       </contributor_list>
       <edition>
-        <variation>v02_01</variation>
+        <variation>v03_01</variation>
       </edition>
       <format_list>
         <format>Common Data Format</format>
@@ -111,7 +111,8 @@
 	  </relation_list>
       <content_language>en</content_language>
       <date_list>
-        <date type="Updated">2020-10-13 (version: v02_01)</date>
+        <date type="Updated">2021-09-27 (version: v03_01)</date>
+		<date type="Updated">2020-10-13 (version: v02_01)</date>
 		<date type="Updated">2020-04-09 (version: v01_02)</date>
 		<date type="Issued">2020-03-10 (version: v01_01)</date>
       </date_list>
